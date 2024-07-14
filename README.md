@@ -1,5 +1,13 @@
-# Fusion
+![image](image.png)
 
-Cryptographic primitives, implemented from scratch in rust.
+# Introducing Fusion
 
-Built for [nights & weekends s5](https://x.com/_nightsweekends).
+A Rust library for composable commit-and-prove zkSNARKs.
+
+This is an early stage work in progress.
+
+Up next:
+
+    - matrix multiplication
+    - generalized sumcheck
+    - Hadamard product
